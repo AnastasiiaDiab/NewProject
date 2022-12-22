@@ -11,6 +11,6 @@ public class Alex_class {
 
         //-----------------------------------------------
 
-
+// ------------------------------------ As developer i'm adding more info and code
     }
 }
